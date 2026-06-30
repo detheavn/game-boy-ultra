@@ -502,8 +502,8 @@ $4000–$7FFF     16KB    ROM Bank N (switchable via MBC)
 $8000–$BFFF     16KB    VRAM — tile data (flat, no banking)
 $C000–$DFFF      8KB    Tile map — active BG map bank
 $E000–$FFDF      8KB    WRAM bank window (active bank)
-$FE00–$FEFF    256B    OAM — 64 sprites × 4 bytes
-$FF00–$FFFF           High page — I/O registers, HRAM, IE
+$FE00–$FEFF     256B    OAM — 64 sprites × 4 bytes
+$FF00–$FFFF             High page — I/O registers, HRAM, IE
 ```
 
 ```
